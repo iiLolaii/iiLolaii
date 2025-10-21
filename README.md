@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hello! This is Lola and I'm in class right now
 
 <!--
 **iiLolaii/iiLolaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hello! This is Lola and I'm in class right now
+
 
 Here are some ideas to get you started:
 
